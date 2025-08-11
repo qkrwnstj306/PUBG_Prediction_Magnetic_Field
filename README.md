@@ -6,4 +6,6 @@
 
 3. overlay.py: 생성된 heatmap을 가지고 실제 map에 overlay
 
+
+- 33명의 사녹 자기장 통계 (7-phase)
 ![sanhok_heatmap](./useful_areas/sanhok_phase_7_useful_overlay.png)
