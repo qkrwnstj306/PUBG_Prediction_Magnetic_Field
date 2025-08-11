@@ -9,3 +9,7 @@
 
 - 33명의 사녹 자기장 통계 (7-phase)
 ![sanhok_heatmap](./useful_areas/sanhok_phase_7_useful_overlay.png)
+
+- WindowexeImageViewer application을 설치하고 다음과 setting하면 원하는 단축키로 손쉽게 overlay image를 불러올 수 있다. 아래의 이미지의 경우 "-" 키를 누르면 이미지가 화면에 overlay된다.
+
+![setting](./setting_image.png)
